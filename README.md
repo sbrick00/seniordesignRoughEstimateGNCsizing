@@ -1,0 +1,1 @@
+Put these files in a folder and add to path. Run the main script. Read the Bill Nadir pdf to understand what is actually being calculated (this is a hypothetical worst case. Literally impossible for these torques to all be acting at the same time for a whole orbit, but it gives an idea). The second part of main script involves sizing for slew stuff
